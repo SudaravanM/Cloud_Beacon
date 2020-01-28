@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirebaseFileUpload</string>
+    <string name="label_main">TinyURL</string>
+    <string name="title_create">Create URL</string>
+    <string name="title_share">Share on TinyURL</string>
+    <string name="title_creating">Creating URL&#8230;</string>
+    <string name="title_created">Created URL.</string>
+    <string name="title_send">Share %s</string>
+    <string name="hint_url">Enter URL</string>
+    <string name="label_original_url">Original URL: </string>
+    <string name="button_create">Create</string>
+    <string name="button_send">Share</string>
+    <string name="button_copy">Copy</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">OK</string>
+    <string name="message_copied">Copied</string>
+    <string name="message_invalid_url">Invalid URL</string>
+    <string name="message_tip"><b>Tip:</b> The easiest way to create a TinyURL link is to share
+		a web page, YouTube video, or other link.</string>
+</resources>
