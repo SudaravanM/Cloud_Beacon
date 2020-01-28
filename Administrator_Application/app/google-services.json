@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278800583118",
+    "firebase_url": "https://fir-fileupload-e1035.firebaseio.com",
+    "project_id": "fir-fileupload-e1035",
+    "storage_bucket": "fir-fileupload-e1035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278800583118:android:07272309c9b811e82d839f",
+        "android_client_info": {
+          "package_name": "com.example.firebasefileupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278800583118-i2uthadob9o4m003rslf5811unp9d4e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasefileupload",
+            "certificate_hash": "c5527d64fc61d529a315c497cd98fab1bb21a729"
+          }
+        },
+        {
+          "client_id": "278800583118-0qop64g7kb97ham1cupica03lhjhbn4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWAH6YBBrJwNfH8ocinfrDWuU9sAucwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278800583118-0qop64g7kb97ham1cupica03lhjhbn4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
